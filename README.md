@@ -19,7 +19,7 @@ Setup Instructions
 ==================
 
 * `git clone https://github.com/YellowPay/yellowdemo-ruby.git`
-* Install [ngrok](https://ngrok.com) and run it, point it at local port 3000. Make note of the URL ngrok gives you: `ngrok 3000`
+* Install [ngrok](https://ngrok.com) and run it, point it at local port 3000 (`ngrok 3000`). Make note of the URL ngrok gives you.
 * Within the root directory of yellowdemo-ruby, type:
 ```
 bundle install
