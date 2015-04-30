@@ -1,5 +1,5 @@
 Yellow Ruby on Rails Demo
-==========
+=========================
 
 Demo code for creating and monitoring Yellow invoices using our Ruby SDK.
 
