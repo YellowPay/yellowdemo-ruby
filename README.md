@@ -5,7 +5,7 @@ Demo code for creating and monitoring Yellow invoices using our Ruby SDK.
 
 This is a simple Rails server with two pages:
 
-1. A page to create an invoice in USD or AED
+1. A page to create an invoice in USD
 2. A page to display the embedded invoice widget
 
 
